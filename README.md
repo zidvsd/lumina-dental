@@ -2,6 +2,8 @@
 
 A modern, high-performance web application built with Next.js 16, React 19, and TypeScript. The site features optimized rendering with server-side generation, lazy-loaded components, and smooth animations.
 
+**[View Live Demo](https://lumina-dental-pi.vercel.app/)**
+
 ## Project Overview
 
 Lumina is a single-page web application showcasing a dental practice. The project demonstrates modern web development practices including:
